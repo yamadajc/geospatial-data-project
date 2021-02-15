@@ -1,0 +1,11 @@
+_id,name,category_code,geojson
+60287bbbd4c3174b2429b52c,Fon,mobile,"{'type': 'Point', 'coordinates': [-3.632687, 40.530724]}"
+60287bbbd4c3174b2429b52e,eRepublik,games_video,"{'type': 'Point', 'coordinates': [-3.6952896, 40.43094]}"
+60287bbbd4c3174b2429b531,Videoplaza,advertising,"{'type': 'Point', 'coordinates': [-3.6923285, 40.4596242]}"
+60287bbbd4c3174b2429b535,Busuu,social,"{'type': 'Point', 'coordinates': [-3.6830316, 40.4225487]}"
+60287bbbd4c3174b2429b536,Unkasoft Advergaming,mobile,"{'type': 'Point', 'coordinates': [-3.6714915, 40.4474363]}"
+60287bbbd4c3174b2429b538,Nexway,ecommerce,"{'type': 'Point', 'coordinates': [-3.7033074, 40.4142986]}"
+60287bbbd4c3174b2429b539,Comunitae,finance,"{'type': 'Point', 'coordinates': [-3.7033403, 40.4905109]}"
+60287bbbd4c3174b2429b53b,Tuenti Technologies,social,"{'type': 'Point', 'coordinates': [-3.696277, 40.4158236]}"
+60287bbbd4c3174b2429b53c,ticketea,ecommerce,"{'type': 'Point', 'coordinates': [-3.7061764, 40.4455155]}"
+60287bbbd4c3174b2429b53e,BuyVIP,ecommerce,"{'type': 'Point', 'coordinates': [-3.7032498, 40.4167413]}"
