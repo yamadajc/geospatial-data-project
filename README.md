@@ -1,6 +1,6 @@
 # GeoSpatial Data Project
 
-!https://github.com/yamadajc/geospatial-data-project/blob/main/images/1.jpeg
+![https://github.com/yamadajc/geospatial-data-project/blob/main/images/1.jpeg]
 
 
 Los planes de expansion de la empresan indican que España podria ser el destino mas oportuno para afianzar el posicionamiento europeo de nuestra actividad. Deseamos saber cual es la ciudad española con mayor concentracion de empresas que cuenten con  mas de un millon de euros recaudados en rondas de financiacion y que ademas hayan sido creadas en el siglo XXI con el fin de instalarnos a su alrededor.
